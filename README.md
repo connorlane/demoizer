@@ -113,12 +113,12 @@ The JSON configuration file should contain an array of objects, each with these 
 After processing, you'll have:
 ```
 your-folder/
-├── Google.html              # Processed HTML file
-├── SearchResults.html       # Processed HTML file  
-├── resources/               # Downloaded resources
-│   ├── image1_abc123.png
-│   ├── font1_def456.woff2
-│   ├── styles_ghi789.css
+├── PageA.html              # Processed HTML file
+├── PageB.html              # Processed HTML file  
+├── resources/              # Downloaded resources
+│   ├── gizmos.png
+│   ├── things.woff2
+│   ├── stuff.css
 │   └── ...
 └── demoizer_settings.json
 ```
@@ -189,4 +189,5 @@ python demoizer.py --help
 ## License
 
 This script is provided as-is for educational and personal use.
+
 
