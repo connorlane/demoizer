@@ -1,0 +1,14 @@
+[
+    {
+        "input_filename": "ORIGINAL_HTML.html",
+        "output_filename": "STRIPPED_HTML.html",
+        "link_replacement": "REPLACE_LINKS_WITH_THIS.html",
+        "base_url": "original-site.com"
+    },
+    {
+        "input_filename": "ORIGINAL_HTML_2.html",
+        "output_filename": "STRIPPED_HTML_2.html",
+        "link_replacement": "REPLACE_LINKS_WITH_THIS.html",
+        "base_url": "original-site.com"
+    }
+]
