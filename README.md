@@ -1,6 +1,6 @@
 # HTML Demoizer Script
 
-A powerful Python script that processes HTML files to create self-contained, offline-ready demo versions by downloading all external resources and cleaning up unwanted elements.
+A Python script that processes HTML files to create self-contained, offline-ready demo versions by downloading all external resources and cleaning up unwanted elements.
 
 ## Features
 
@@ -190,6 +190,3 @@ python demoizer.py --help
 
 This script is provided as-is for educational and personal use.
 
-## Contributing
-
-Feel free to submit issues and enhancement requests!
